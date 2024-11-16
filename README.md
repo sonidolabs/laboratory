@@ -1,6 +1,8 @@
+
+<pre style="font-size: 4px; text-align: center;">
                          __    _                                   
                     _wr""        "-q__                             
-                 _dP                 9m_     
+_dP                 9m_          
                _#P                     9#_                         
               d#@                       9#m                        
              d##                         ###                       
@@ -20,4 +22,6 @@
                        _0########_                                   
      .               _d#####^#####m__              ,              
       "*w_________am#####P"   ~9#####mw_________w*"                  
-          ""9@#####@M""           ""P@#####@M""           
+          ""9@#####@M""           ""P@#####@M""                  
+</pre>
+<pre style="font-size: 24px; text-align: center; font-weight: bold;">Laboratory</pre>
